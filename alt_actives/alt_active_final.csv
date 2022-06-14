@@ -1,0 +1,221 @@
+cid,cmpdname,CanonicalSMILES,activity
+653949,4-chloro-7-(ethylamino)chromen-2-one,CCNC1=CC2=C(C=C1)C(=CC(=O)O2)Cl,Active
+969516,"(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione",COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC)O,Active
+658104,"methyl 5-(1-amino-5-morpholin-4-yl-6,7,8,9-tetrahydrothieno[2,3-c]isoquinolin-2-yl)furan-2-carboxylate",COC(=O)C1=CC=C(O1)C2=C(C3=C(S2)N=C(C4=C3CCCC4)N5CCOCC5)N,Active
+100641,7-amino-4-(trifluoromethyl)chromen-2-one,C1=CC2=C(C=C1N)OC(=O)C=C2C(F)(F)F,Active
+629074,"3-amino-4-(furan-2-yl)-6-phenylthieno[2,3-b]pyridine-2-carbonitrile",C1=CC=C(C=C1)C2=NC3=C(C(=C2)C4=CC=CO4)C(=C(S3)C#N)N,Active
+379416,"N'-(5,7-dibromo-2,1,3-benzoxadiazol-4-yl)-N,N-dimethylmethanimidamide",CN(C)C=NC1=C(C=C(C2=NON=C12)Br)Br,Active
+661898,"N-[7-(4-fluorophenyl)-5-phenyl-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl]acetamide",CC(=O)NC1=NN2C(C=C(NC2=N1)C3=CC=CC=C3)C4=CC=C(C=C4)F,Active
+662176,"7-(4-ethoxyphenyl)-5-phenyl-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidine",CCOC1=CC=C(C=C1)C2C=C(NC3=NC=NN23)C4=CC=CC=C4,Active
+664134,"1-methyl-3-phenylpyrazolo[4,3-b]quinoxaline",CN1C2=NC3=CC=CC=C3N=C2C(=N1)C4=CC=CC=C4,Active
+666371,"3-amino-6-(furan-2-yl)-N-(2-methoxyphenyl)thieno[2,3-b]pyridine-2-carboxamide",COC1=CC=CC=C1NC(=O)C2=C(C3=C(S2)N=C(C=C3)C4=CC=CO4)N,Active
+666746,"1-cyclopentyl-3-(1-methylbenzimidazol-2-yl)pyrrolo[3,2-b]quinoxalin-2-amine",CN1C2=CC=CC=C2N=C1C3=C(N(C4=NC5=CC=CC=C5N=C34)C6CCCC6)N,Active
+3000025,"3-[7-(4-methoxyphenyl)-5-phenyl-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl]propan-1-ol",COC1=CC=C(C=C1)C2C=C(NC3=NC(=NN23)CCCO)C4=CC=CC=C4,Active
+3000028,"5-(4-chlorophenyl)-7-(3,4-dimethoxyphenyl)-5,8-dihydro-[1,2,4]triazolo[4,3-a]pyrimidine",COC1=C(C=C(C=C1)C2=CC(N3C=NN=C3N2)C4=CC=C(C=C4)Cl)OC,Active
+54718136,"(12Z)-12-[(E)-3-[4-(dimethylamino)phenyl]-1-hydroxyprop-2-enylidene]-9,10-dimethyl-8-oxa-10-azatricyclo[7.3.1.02,7]trideca-2,4,6-trien-11-one",CC12CC(C3=CC=CC=C3O1)C(=C(C=CC4=CC=C(C=C4)N(C)C)O)C(=O)N2C,Active
+1773030,"3-amino-N-(5-propylsulfanyl-1,3,4-thiadiazol-2-yl)-6-thiophen-2-ylthieno[2,3-b]pyridine-2-carboxamide",CCCSC1=NN=C(S1)NC(=O)C2=C(C3=C(S2)N=C(C=C3)C4=CC=CS4)N,Active
+3243384,4-[[7-(diethylamino)-2-oxochromen-3-yl]amino]-4-oxobutanoic acid,CCN(CC)C1=CC2=C(C=C1)C=C(C(=O)O2)NC(=O)CCC(=O)O,Active
+3243672,"3-[7-(2-chlorophenyl)-5-thiophen-2-yl-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl]propan-1-ol",C1=CC=C(C(=C1)C2C=C(NC3=NC(=NN23)CCCO)C4=CC=CS4)Cl,Active
+3244704,"3-[7-(4-methoxyphenyl)-5-thiophen-2-yl-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl]propan-1-ol",COC1=CC=C(C=C1)C2C=C(NC3=NC(=NN23)CCCO)C4=CC=CS4,Active
+2950551,"7-(4-ethoxyphenyl)-5-(4-fluorophenyl)-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidine",CCOC1=CC=C(C=C1)C2C=C(NC3=NC=NN23)C4=CC=C(C=C4)F,Active
+1224769,"4-[(4-bromo-2,1,3-benzothiadiazol-7-yl)sulfonyl]morpholine",C1COCCN1S(=O)(=O)C2=CC=C(C3=NSN=C23)Br,Active
+756377,"4-chloro-8-(diethylamino)pyrano[3,2-c]chromene-2,5-dione",CCN(CC)C1=CC2=C(C=C1)C3=C(C(=CC(=O)O3)Cl)C(=O)O2,Active
+5147737,"3-(5,7-diphenyl-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl)propan-1-ol",C1=CC=C(C=C1)C2C=C(NC3=NC(=NN23)CCCO)C4=CC=CC=C4,Active
+760116,"6-methyl-4-(trifluoromethyl)-7,8,9,10-tetrahydropyrano[2,3-f]quinolin-2-one",CC1=CC2=C(C3=C1NCCC3)OC(=O)C=C2C(F)(F)F,Active
+535721,"9-methyl-4-(trifluoromethyl)-7,8-dihydro-6H-pyrano[2,3-b][1,8]naphthyridin-2-one",CN1CCCC2=CC3=C(N=C21)OC(=O)C=C3C(F)(F)F,Active
+94381,3-(1H-benzimidazol-2-yl)-7-(diethylamino)chromen-2-one,CCN(CC)C1=CC2=C(C=C1)C=C(C(=O)O2)C3=NC4=CC=CC=C4N3,Active
+100335,7-(diethylamino)-3-(1-methylbenzimidazol-2-yl)chromen-2-one,CCN(CC)C1=CC2=C(C=C1)C=C(C(=O)O2)C3=NC4=CC=CC=C4N3C,Active
+1108212,"6-bromo-2-(1,3,5-trimethylpyrazol-4-yl)benzo[de]isoquinoline-1,3-dione",CC1=C(C(=NN1C)C)N2C(=O)C3=C4C(=C(C=C3)Br)C=CC=C4C2=O,Active
+1796110,"16-(butylamino)-14-methyl-14-azatetracyclo[7.7.1.02,7.013,17]heptadeca-1(16),2,4,6,9(17),10,12-heptaene-8,15-dione",CCCCNC1=C2C3=CC=CC=C3C(=O)C4=C2C(=CC=C4)N(C1=O)C,Active
+1446268,"N-cyclopentyl-2-[4-(diethylamino)phenyl]imidazo[1,2-a]pyrazin-3-amine",CCN(CC)C1=CC=C(C=C1)C2=C(N3C=CN=CC3=N2)NC4CCCC4,Active
+511501,"12-cyclohexyl-1,4-diazatetracyclo[7.6.1.05,16.010,15]hexadeca-4,9(16),10(15),11,13-pentaene",C1CCC(CC1)C2=CC3=C(C=C2)N4CCN=C5C4=C3CCC5,Active
+1108211,"6-bromo-2-(3,5-dimethyl-1H-pyrazol-4-yl)benzo[de]isoquinoline-1,3-dione",CC1=C(C(=NN1)C)N2C(=O)C3=C4C(=C(C=C3)Br)C=CC=C4C2=O,Active
+2861516,"5-ethyl-5'-naphthalen-1-ylspiro[1H-indole-3,2'-3H-1,3,4-thiadiazole]-2-one",CCC1=CC2=C(C=C1)NC(=O)C23NN=C(S3)C4=CC=CC5=CC=CC=C54,Active
+990640,"6-amino-8-(4-methoxyphenyl)-N-phenyl-4-thia-2-azatricyclo[7.3.0.03,7]dodeca-1(9),2,5,7-tetraene-5-carboxamide",COC1=CC=C(C=C1)C2=C3C(=C(SC3=NC4=C2CCC4)C(=O)NC5=CC=CC=C5)N,Active
+5863319,6-methoxy-2-(4-methoxyphenyl)-3-[3-(trifluoromethyl)phenyl]sulfanyl-1-benzothiophene 1-oxide,COC1=CC=C(C=C1)C2=C(C3=C(S2=O)C=C(C=C3)OC)SC4=CC=CC(=C4)C(F)(F)F,Active
+5936678,"N-[(Z)-[1-(2,6-dimethylphenyl)-2,5-dimethylpyrrol-3-yl]methylideneamino]-5-nitropyridin-2-amine",CC1=C(C(=CC=C1)C)N2C(=CC(=C2C)C=NNC3=NC=C(C=C3)[N+](=O)[O-])C,Active
+72652,"6-(trifluoromethyl)-3-oxa-13-azatetracyclo[7.7.1.02,7.013,17]heptadeca-1(17),2(7),5,8-tetraen-4-one",C1CC2=CC3=C(C4=C2N(C1)CCC4)OC(=O)C=C3C(F)(F)F,Active
+5914494,3-(4-bromophenyl)sulfanyl-6-methoxy-2-(4-methoxyphenyl)-1-benzothiophene 1-oxide,COC1=CC=C(C=C1)C2=C(C3=C(S2=O)C=C(C=C3)OC)SC4=CC=C(C=C4)Br,Active
+2136917,"3-(4-fluorophenyl)-7,8-dimethoxy-5-[(3-methylphenyl)methyl]pyrazolo[4,3-c]quinoline",CC1=CC(=CC=C1)CN2C=C3C(=NN=C3C4=CC(=C(C=C42)OC)OC)C5=CC=C(C=C5)F,Active
+2136935,"3-(4-fluorophenyl)-7,8-dimethoxy-5-[(4-methoxyphenyl)methyl]pyrazolo[4,3-c]quinoline",COC1=CC=C(C=C1)CN2C=C3C(=NN=C3C4=CC(=C(C=C42)OC)OC)C5=CC=C(C=C5)F,Active
+2136907,"3-(4-fluorophenyl)-7,8-dimethoxy-5-[(4-methylphenyl)methyl]pyrazolo[4,3-c]quinoline",CC1=CC=C(C=C1)CN2C=C3C(=NN=C3C4=CC(=C(C=C42)OC)OC)C5=CC=C(C=C5)F,Active
+2862265,"5-acetyl-6-methyl-2-[2-oxo-2-(4-phenylphenyl)ethyl]sulfanyl-4-pyridin-3-yl-1,4-dihydropyridine-3-carbonitrile",CC1=C(C(C(=C(N1)SCC(=O)C2=CC=C(C=C2)C3=CC=CC=C3)C#N)C4=CN=CC=C4)C(=O)C,Active
+6371672,"(2Z,6E)-4-methyl-2,6-bis[(1-methylpyrrol-2-yl)methylidene]cyclohexan-1-one",CC1CC(=CC2=CC=CN2C)C(=O)C(=CC3=CC=CN3C)C1,Active
+6157225,"(2E,6E)-2,6-bis[(1-methylpyrrol-2-yl)methylidene]cyclohexan-1-one",CN1C=CC=C1C=C2CCCC(=CC3=CC=CN3C)C2=O,Active
+875407,"5-(3-methylphenanthro[9,10-d]imidazol-2-yl)thiophene-2-carbaldehyde",CN1C2=C(C3=CC=CC=C3C4=CC=CC=C42)N=C1C5=CC=C(S5)C=O,Active
+5336330,ethyl (Z)-2-(4-acetyl-5-anilinothiophene-2-carbonyl)-3-pyridin-3-ylprop-2-enoate,CCOC(=O)C(=CC1=CN=CC=C1)C(=O)C2=CC(=C(S2)NC3=CC=CC=C3)C(=O)C,Active
+1316236,"6-(4-methylphenyl)-2-methylsulfonyl-4-phenylthieno[2,3-b]pyridin-3-amine",CC1=CC=C(C=C1)C2=NC3=C(C(=C2)C4=CC=CC=C4)C(=C(S3)S(=O)(=O)C)N,Active
+2036162,"1-butyl-3-phenylpyrazolo[4,3-b]quinoxaline",CCCCN1C2=NC3=CC=CC=C3N=C2C(=N1)C4=CC=CC=C4,Active
+3449225,"4-[15-methyl-9-(3-methylanilino)-13-phenyl-1,8,11,13,14-pentazatetracyclo[8.7.0.02,7.012,16]heptadeca-2,4,6,8,10,12(16),14-heptaen-17-yl]benzene-1,2-diol",CC1=CC(=CC=C1)NC2=NC3=CC=CC=C3N4C2=NC5=C(C4C6=CC(=C(C=C6)O)O)C(=NN5C7=CC=CC=C7)C,Active
+4269692,"4-[15-methyl-9-(4-methylanilino)-13-phenyl-1,8,11,13,14-pentazatetracyclo[8.7.0.02,7.012,16]heptadeca-2,4,6,8,10,12(16),14-heptaen-17-yl]benzene-1,2-diol",CC1=CC=C(C=C1)NC2=NC3=CC=CC=C3N4C2=NC5=C(C4C6=CC(=C(C=C6)O)O)C(=NN5C7=CC=CC=C7)C,Active
+4325987,"4-(9-anilino-15-methyl-13-phenyl-1,8,11,13,14-pentazatetracyclo[8.7.0.02,7.012,16]heptadeca-2,4,6,8,10,12(16),14-heptaen-17-yl)benzene-1,2-diol",CC1=NN(C2=C1C(N3C4=CC=CC=C4N=C(C3=N2)NC5=CC=CC=C5)C6=CC(=C(C=C6)O)O)C7=CC=CC=C7,Active
+2031089,"1-pentyl-3-phenylpyrazolo[4,3-b]quinoxaline",CCCCCN1C2=NC3=CC=CC=C3N=C2C(=N1)C4=CC=CC=C4,Active
+1262928,"14-methyl-16-(2-phenylethylamino)-14-azatetracyclo[7.7.1.02,7.013,17]heptadeca-1(16),2,4,6,9(17),10,12-heptaene-8,15-dione",CN1C2=CC=CC3=C2C(=C(C1=O)NCCC4=CC=CC=C4)C5=CC=CC=C5C3=O,Active
+4971561,"3-(1-methylbenzimidazol-2-yl)-1-(3-phenylpropyl)pyrrolo[3,2-b]quinoxalin-2-amine",CN1C2=CC=CC=C2N=C1C3=C(N(C4=NC5=CC=CC=C5N=C34)CCCC6=CC=CC=C6)N,Active
+4889526,"1-(3-methoxypropyl)-3-(1-methylbenzimidazol-2-yl)pyrrolo[3,2-b]quinoxalin-2-amine",CN1C2=CC=CC=C2N=C1C3=C(N(C4=NC5=CC=CC=C5N=C34)CCCOC)N,Active
+4897494,"3-(1-methylbenzimidazol-2-yl)-1-(2-phenylethyl)pyrrolo[3,2-b]quinoxalin-2-amine",CN1C2=CC=CC=C2N=C1C3=C(N(C4=NC5=CC=CC=C5N=C34)CCC6=CC=CC=C6)N,Active
+6236941,(E)-3-[1-[(4-methylpiperazin-1-yl)methyl]indol-3-yl]-1-phenylprop-2-en-1-one,CN1CCN(CC1)CN2C=C(C3=CC=CC=C32)C=CC(=O)C4=CC=CC=C4,Active
+3745344,"N-[7-(4-methoxyphenyl)-5-phenyl-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidin-2-yl]acetamide",CC(=O)NC1=NN2C(C=C(NC2=N1)C3=CC=CC=C3)C4=CC=C(C=C4)OC,Active
+399112,"2-(5-amino-1,3,4-thiadiazol-2-yl)benzo[f]chromen-3-one",C1=CC=C2C(=C1)C=CC3=C2C=C(C(=O)O3)C4=NN=C(S4)N,Active
+1001295,"(2Z)-2-[[4-(diethylamino)-2-hydroxyphenyl]methylidene]-[1,3]thiazolo[3,2-a]benzimidazol-1-one",CCN(CC)C1=CC(=C(C=C1)C=C2C(=O)N3C4=CC=CC=C4N=C3S2)O,Active
+1893291,4-amino-5-(5-bromothiophene-2-carbonyl)-2-(prop-2-enylamino)thiophene-3-carbonitrile,C=CCNC1=C(C(=C(S1)C(=O)C2=CC=C(S2)Br)N)C#N,Active
+2957085,"6-nitro-2-(1,3-thiazol-2-yl)benzo[de]isoquinoline-1,3-dione",C1=CC2=C(C=CC3=C2C(=C1)C(=O)N(C3=O)C4=NC=CS4)[N+](=O)[O-],Active
+5999709,"2-[(7E)-7-benzylidene-3-phenyl-3a,4,5,6-tetrahydro-3H-indazol-2-yl]-N,4-dimethyl-1,3-thiazole-5-carboxamide",CC1=C(SC(=N1)N2C(C3CCCC(=CC4=CC=CC=C4)C3=N2)C5=CC=CC=C5)C(=O)NC,Active
+6260437,"2-[(7E)-3-(4-fluorophenyl)-7-[(4-fluorophenyl)methylidene]-3a,4,5,6-tetrahydro-3H-indazol-2-yl]-N,N,4-trimethyl-1,3-thiazole-5-carboxamide",CC1=C(SC(=N1)N2C(C3CCCC(=CC4=CC=C(C=C4)F)C3=N2)C5=CC=C(C=C5)F)C(=O)N(C)C,Active
+4835204,N-(3-cyanophenyl)-2-(7-oxobenzo[a]phenalen-3-yl)sulfanylacetamide,C1=CC=C2C(=C1)C3=C4C(=C(C=C3)SCC(=O)NC5=CC=CC(=C5)C#N)C=CC=C4C2=O,Active
+135490259,1-[(E)-[[4-(1H-imidazol-2-yl)phthalazin-1-yl]hydrazinylidene]methyl]naphthalen-2-ol,C1=CC=C2C(=C1)C=CC(=C2C=NNC3=NN=C(C4=CC=CC=C43)C5=NC=CN5)O,Active
+6876748,2-(3-chloro-4-methoxy-N-(4-methylphenyl)sulfonylanilino)-N-[(E)-[5-(4-nitrophenyl)furan-2-yl]methylideneamino]acetamide,CC1=CC=C(C=C1)S(=O)(=O)N(CC(=O)NN=CC2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-])C4=CC(=C(C=C4)OC)Cl,Active
+135490270,N-(2-methoxyphenyl)-2-[(2E)-2-[(2-methyl-1H-indol-3-yl)methylidene]hydrazinyl]-5-nitrobenzenesulfonamide,CC1=C(C2=CC=CC=C2N1)C=NNC3=C(C=C(C=C3)[N+](=O)[O-])S(=O)(=O)NC4=CC=CC=C4OC,Active
+6103405,"2-benzyl-6-hydroxybenzo[de]isoquinoline-1,3-dione",C1=CC=C(C=C1)CN2C(=O)C3=C4C(=C(C=C3)O)C=CC=C4C2=O,Active
+135490285,N-(4-chlorophenyl)-2-[(2E)-2-(1H-indol-3-ylmethylidene)hydrazinyl]-5-nitrobenzenesulfonamide,C1=CC=C2C(=C1)C(=CN2)C=NNC3=C(C=C(C=C3)[N+](=O)[O-])S(=O)(=O)NC4=CC=C(C=C4)Cl,Active
+135490286,2-[(2E)-2-(1H-indol-3-ylmethylidene)hydrazinyl]-N-(2-methoxyphenyl)-5-nitrobenzenesulfonamide,COC1=CC=CC=C1NS(=O)(=O)C2=C(C=CC(=C2)[N+](=O)[O-])NN=CC3=CNC4=CC=CC=C43,Active
+1004092,"[3-amino-6-(4-methoxyphenyl)thieno[2,3-b]pyridin-2-yl]-(3-methoxyphenyl)methanone",COC1=CC=C(C=C1)C2=NC3=C(C=C2)C(=C(S3)C(=O)C4=CC(=CC=C4)OC)N,Active
+1004085,"[3-amino-6-(4-methoxyphenyl)thieno[2,3-b]pyridin-2-yl]-(3,4-dimethoxyphenyl)methanone",COC1=CC=C(C=C1)C2=NC3=C(C=C2)C(=C(S3)C(=O)C4=CC(=C(C=C4)OC)OC)N,Active
+11839287,"(5Z)-5-[(2,5-dimethoxy-4-pyrrolidin-1-ylphenyl)methylidene]-3-(2-methoxyethyl)-2-phenylimino-1,3-thiazolidin-4-one",COCCN1C(=O)C(=CC2=CC(=C(C=C2OC)N3CCCC3)OC)SC1=NC4=CC=CC=C4,Active
+9606709,N-[(E)-[2-[(3-methylphenyl)methoxy]phenyl]methylideneamino]-4-nitroaniline,CC1=CC(=CC=C1)COC2=CC=CC=C2C=NNC3=CC=C(C=C3)[N+](=O)[O-],Active
+1036385,"(3-amino-6-phenylthieno[2,3-b]pyridin-2-yl)-(3,4-dimethoxyphenyl)methanone",COC1=C(C=C(C=C1)C(=O)C2=C(C3=C(S2)N=C(C=C3)C4=CC=CC=C4)N)OC,Active
+5285231,"(7E)-2-amino-4-(4-methylphenyl)-7-[(4-methylphenyl)methylidene]-5,6-dihydro-4H-cyclopenta[b]pyran-3-carbonitrile",CC1=CC=C(C=C1)C=C2CCC3=C2OC(=C(C3C4=CC=C(C=C4)C)C#N)N,Active
+6406850,"6-(5-ethylsulfanyl-1,3,4-oxadiazol-2-yl)-3,4-diphenylthieno[2,3-c]pyridazin-5-amine",CCSC1=NN=C(O1)C2=C(C3=C(C(=NN=C3S2)C4=CC=CC=C4)C5=CC=CC=C5)N,Active
+5400800,(5Z)-5-[(3-methyl-4-pyrrolidin-1-ylphenyl)methylidene]-3-propyl-2-sulfanylideneimidazolidin-4-one,CCCN1C(=O)C(=CC2=CC(=C(C=C2)N3CCCC3)C)NC1=S,Active
+2254616,"3-(6-nitro-1,3-dioxobenzo[de]isoquinolin-2-yl)-N-(1,3-thiazol-2-yl)benzamide",C1=CC(=CC(=C1)N2C(=O)C3=C4C(=C(C=C3)[N+](=O)[O-])C=CC=C4C2=O)C(=O)NC5=NC=CS5,Active
+1928929,"3-amino-N-(1,3-benzothiazol-2-yl)-6-thiophen-2-ylthieno[2,3-b]pyridine-2-carboxamide",C1=CC=C2C(=C1)N=C(S2)NC(=O)C3=C(C4=C(S3)N=C(C=C4)C5=CC=CS5)N,Active
+704848,"2-(4-methylpyridin-2-yl)-6-nitrobenzo[de]isoquinoline-1,3-dione",CC1=CC(=NC=C1)N2C(=O)C3=C4C(=C(C=C3)[N+](=O)[O-])C=CC=C4C2=O,Active
+5933290,5-nitro-N-[(Z)-(1-phenylpyrrol-2-yl)methylideneamino]pyridin-2-amine,C1=CC=C(C=C1)N2C=CC=C2C=NNC3=NC=C(C=C3)[N+](=O)[O-],Active
+1218173,"6-nitro-2-pyridin-2-ylbenzo[de]isoquinoline-1,3-dione",C1=CC=NC(=C1)N2C(=O)C3=C4C(=C(C=C3)[N+](=O)[O-])C=CC=C4C2=O,Active
+5857072,N-[(Z)-1-(4-ethylphenyl)ethylideneamino]-4-nitroaniline,CCC1=CC=C(C=C1)C(=NNC2=CC=C(C=C2)[N+](=O)[O-])C,Active
+1005239,"3-amino-4-(4-chlorophenyl)-6-thiophen-2-ylthieno[2,3-b]pyridine-2-carbonitrile",C1=CSC(=C1)C2=NC3=C(C(=C2)C4=CC=C(C=C4)Cl)C(=C(S3)C#N)N,Active
+5750556,"N-[(E)-(1,3-diphenylpyrazol-4-yl)methylideneamino]-4-nitroaniline",C1=CC=C(C=C1)C2=NN(C=C2C=NNC3=CC=C(C=C3)[N+](=O)[O-])C4=CC=CC=C4,Active
+6873208,2-(N-(4-ethoxyphenyl)sulfonylanilino)-N-[(E)-[5-(4-nitrophenyl)furan-2-yl]methylideneamino]acetamide,CCOC1=CC=C(C=C1)S(=O)(=O)N(CC(=O)NN=CC2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-])C4=CC=CC=C4,Active
+1482534,"(2-anilino-1,3-thiazol-5-yl)-(4-chlorophenyl)methanone",C1=CC=C(C=C1)NC2=NC=C(S2)C(=O)C3=CC=C(C=C3)Cl,Active
+815515,"methyl 4-(6-amino-5-chloro-1,3-benzothiazol-2-yl)benzoate",COC(=O)C1=CC=C(C=C1)C2=NC3=C(S2)C=C(C(=C3)Cl)N,Active
+9581694,N-[(E)-(2-ethylsulfanyl-3-methylimidazol-4-yl)methylideneamino]-4-nitroaniline,CCSC1=NC=C(N1C)C=NNC2=CC=C(C=C2)[N+](=O)[O-],Active
+942046,"3-amino-6-(3-methoxyphenyl)-4-(trifluoromethyl)thieno[2,3-b]pyridine-2-carbonitrile",COC1=CC=CC(=C1)C2=NC3=C(C(=C2)C(F)(F)F)C(=C(S3)C#N)N,Active
+845544,"3-amino-4-phenyl-6-thiophen-2-ylthieno[2,3-b]pyridine-2-carbonitrile",C1=CC=C(C=C1)C2=CC(=NC3=C2C(=C(S3)C#N)N)C4=CC=CS4,Active
+4204023,"3-[(2,4-dimethylphenyl)iminomethyl]-2-benzothiophen-1-ol",CC1=CC(=C(C=C1)N=CC2=C3C=CC=CC3=C(S2)O)C,Active
+3841103,3-(phenyliminomethyl)-2-benzothiophen-1-ol,C1=CC=C(C=C1)N=CC2=C3C=CC=CC3=C(S2)O,Active
+3798575,3-[(4-methylphenyl)iminomethyl]-2-benzothiophen-1-ol,CC1=CC=C(C=C1)N=CC2=C3C=CC=CC3=C(S2)O,Active
+1472977,"4-[4-(6,8-dibromoquinolin-2-yl)phenyl]morpholine",C1COCCN1C2=CC=C(C=C2)C3=NC4=C(C=C(C=C4C=C3)Br)Br,Active
+9619313,"ethyl 3-[2-[(2E)-2-[(4-chlorophenyl)methylidene]hydrazinyl]-2-oxoethoxy]pyrido[1,2-a]indole-10-carboxylate",CCOC(=O)C1=C2C=CC=CN2C3=C1C=CC(=C3)OCC(=O)NN=CC4=CC=C(C=C4)Cl,Active
+5334671,"2-[N-(benzenesulfonyl)-2,5-dimethylanilino]-N-[(E)-[5-(4-nitrophenyl)furan-2-yl]methylideneamino]acetamide",CC1=CC(=C(C=C1)C)N(CC(=O)NN=CC2=CC=C(O2)C3=CC=C(C=C3)[N+](=O)[O-])S(=O)(=O)C4=CC=CC=C4,Active
+5346216,(E)-1-(3-bromophenyl)-3-[4-(dimethylamino)phenyl]prop-2-en-1-one,CN(C)C1=CC=C(C=C1)C=CC(=O)C2=CC(=CC=C2)Br,Active
+2221657,"2-(5-chloropyridin-2-yl)-6-nitrobenzo[de]isoquinoline-1,3-dione",C1=CC2=C(C=CC3=C2C(=C1)C(=O)N(C3=O)C4=NC=C(C=C4)Cl)[N+](=O)[O-],Active
+1326324,[2-oxo-4-(trifluoromethyl)chromen-7-yl] (2S)-2-[(4-methylphenyl)sulfonylamino]-2-phenylacetate,CC1=CC=C(C=C1)S(=O)(=O)NC(C2=CC=CC=C2)C(=O)OC3=CC4=C(C=C3)C(=CC(=O)O4)C(F)(F)F,Active
+5769124,2-[4-[(Z)-2-(1H-benzimidazol-2-yl)-2-cyanoethenyl]-2-methoxyphenoxy]-N-(2-methylphenyl)acetamide,CC1=CC=CC=C1NC(=O)COC2=C(C=C(C=C2)C=C(C#N)C3=NC4=CC=CC=C4N3)OC,Active
+1325822,"2-(4-nitrophenyl)-4,5-dithiophen-2-yl-1H-imidazole",C1=CSC(=C1)C2=C(N=C(N2)C3=CC=C(C=C3)[N+](=O)[O-])C4=CC=CS4,Active
+702952,"2,3,6-triphenylimidazo[1,2-b][1,2,4]triazine",C1=CC=C(C=C1)C2=CN3C(=N2)N=C(C(=N3)C4=CC=CC=C4)C5=CC=CC=C5,Active
+5341736,(Z)-2-(6-methyl-1H-benzimidazol-2-yl)-3-(5-nitrofuran-2-yl)prop-2-enenitrile,CC1=CC2=C(C=C1)N=C(N2)C(=CC3=CC=C(O3)[N+](=O)[O-])C#N,Active
+135472352,N-[(E)-1H-indol-3-ylmethylideneamino]-4-nitroaniline,C1=CC=C2C(=C1)C(=CN2)C=NNC3=CC=C(C=C3)[N+](=O)[O-],Active
+5378081,"4-[(E)-2-(1,3-benzothiazol-2-yl)ethenyl]-N,N-dimethylaniline",CN(C)C1=CC=C(C=C1)C=CC2=NC3=CC=CC=C3S2,Active
+5739533,"4-[(E)-2-(1,3-benzothiazol-2-yl)ethenyl]-N,N-diethylaniline",CCN(CC)C1=CC=C(C=C1)C=CC2=NC3=CC=CC=C3S2,Active
+5736224,"(14E)-14-[(3-hydroxy-4-methoxyphenyl)methylidene]-11-(2-methoxyphenyl)-15-thia-12,17-diazatetracyclo[8.7.0.02,7.012,16]heptadeca-1(10),2,4,6,16-pentaen-13-one",COC1=C(C=C(C=C1)C=C2C(=O)N3C(C4=C(C5=CC=CC=C5CC4)N=C3S2)C6=CC=CC=C6OC)O,Active
+988543,"1,3-diethyl-6-hydroxy-5-[(4-morpholin-4-ylphenyl)iminomethyl]-2-sulfanylidenepyrimidin-4-one",CCN1C(=C(C(=O)N(C1=S)CC)C=NC2=CC=C(C=C2)N3CCOCC3)O,Active
+5334290,(Z)-3-[4-(diethylamino)-2-propan-2-yloxyphenyl]-2-(6-methyl-1H-benzimidazol-2-yl)prop-2-enenitrile,CCN(CC)C1=CC(=C(C=C1)C=C(C#N)C2=NC3=C(N2)C=C(C=C3)C)OC(C)C,Active
+5740162,2-[4-[(Z)-2-(1H-benzimidazol-2-yl)-2-cyanoethenyl]-2-methoxyphenoxy]-N-(2-propan-2-ylphenyl)acetamide,CC(C)C1=CC=CC=C1NC(=O)COC2=C(C=C(C=C2)C=C(C#N)C3=NC4=CC=CC=C4N3)OC,Active
+2215233,"propan-2-yl 3-amino-6-phenylthieno[2,3-b]pyridine-2-carboxylate",CC(C)OC(=O)C1=C(C2=C(S1)N=C(C=C2)C3=CC=CC=C3)N,Active
+2840784,"ethyl 7-chloro-6-formyl-2-(pentanoylamino)-4,5-dihydro-1-benzothiophene-3-carboxylate",CCCCC(=O)NC1=C(C2=C(S1)C(=C(CC2)C=O)Cl)C(=O)OCC,Active
+846392,"3-(4,5-dihydrobenzo[e][1,3]benzothiazol-2-yl)chromen-2-one",C1CC2=C(C3=CC=CC=C31)N=C(S2)C4=CC5=CC=CC=C5OC4=O,Active
+11325914,3-[(E)-2-(1-methylpyridin-1-ium-4-yl)ethenyl]-1H-indole;iodide,C[N+]1=CC=C(C=C1)C=CC2=CNC3=CC=CC=C32.[I-],Active
+135421491,N-[(E)-(2-methyl-1H-indol-3-yl)methylideneamino]-4-nitroaniline,CC1=C(C2=CC=CC=C2N1)C=NNC3=CC=C(C=C3)[N+](=O)[O-],Active
+5732023,"4-[5-[(Z)-2-(1,3-benzothiazol-2-yl)-2-cyanoethenyl]furan-2-yl]benzenesulfonamide",C1=CC=C2C(=C1)N=C(S2)C(=CC3=CC=C(O3)C4=CC=C(C=C4)S(=O)(=O)N)C#N,Active
+135408359,"3-(4,5-dihydrobenzo[e][1,3]benzothiazol-2-yl)-7-hydroxychromen-2-one",C1CC2=C(C3=CC=CC=C31)N=C(S2)C4=CC5=C(C=C(C=C5)O)OC4=O,Active
+135497951,2-[(E)-[(E)-[4-(dimethylamino)phenyl]methylidenehydrazinylidene]methyl]phenol,CN(C)C1=CC=C(C=C1)C=NN=CC2=CC=CC=C2O,Active
+1973785,"7-(diethylamino)-3-[4-(4-methoxyphenyl)-1,3-thiazol-2-yl]chromen-2-one",CCN(CC)C1=CC2=C(C=C1)C=C(C(=O)O2)C3=NC(=CS3)C4=CC=C(C=C4)OC,Active
+999758,"2-[(3,4-dichlorophenyl)carbamoylamino]-6-ethyl-5,7-dihydro-4H-thieno[2,3-c]pyridine-3-carboxamide",CCN1CCC2=C(C1)SC(=C2C(=O)N)NC(=O)NC3=CC(=C(C=C3)Cl)Cl,Active
+2133793,4-fluoro-N-(4-hydroxy-3-quinolin-8-ylsulfanylnaphthalen-1-yl)benzenesulfonamide,C1=CC=C2C(=C1)C(=CC(=C2O)SC3=CC=CC4=C3N=CC=C4)NS(=O)(=O)C5=CC=C(C=C5)F,Active
+2044030,"N-(1-benzylpyrrolo[3,2-b]quinoxalin-2-yl)-4-chlorobenzenesulfonamide",C1=CC=C(C=C1)CN2C(=CC3=NC4=CC=CC=C4N=C32)NS(=O)(=O)C5=CC=C(C=C5)Cl,Active
+5720702,4-nitro-N-[(Z)-(2-phenylmethoxyphenyl)methylideneamino]aniline,C1=CC=C(C=C1)COC2=CC=CC=C2C=NNC3=CC=C(C=C3)[N+](=O)[O-],Active
+1073564,(E)-2-cyano-3-[1-[(4-fluorophenyl)methyl]indol-3-yl]-N-(furan-2-ylmethyl)prop-2-enamide,C1=CC=C2C(=C1)C(=CN2CC3=CC=C(C=C3)F)C=C(C#N)C(=O)NCC4=CC=CO4,Active
+11835308,(E)-3-[1-[3-(azepan-1-yl)-2-hydroxypropyl]indol-3-yl]-1-thiophen-2-ylprop-2-en-1-one,C1CCCN(CC1)CC(CN2C=C(C3=CC=CC=C32)C=CC(=O)C4=CC=CS4)O,Active
+11835306,(E)-3-[1-[3-[butyl(methyl)amino]-2-hydroxypropyl]indol-3-yl]-1-thiophen-2-ylprop-2-en-1-one,CCCCN(C)CC(CN1C=C(C2=CC=CC=C21)C=CC(=O)C3=CC=CS3)O,Active
+11835305,(E)-3-[1-[3-(dipropylamino)-2-hydroxypropyl]indol-3-yl]-1-thiophen-2-ylprop-2-en-1-one,CCCN(CCC)CC(CN1C=C(C2=CC=CC=C21)C=CC(=O)C3=CC=CS3)O,Active
+3373363,"3-(1-methylbenzimidazol-2-yl)-1-phenylpyrrolo[3,2-b]quinoxalin-2-amine",CN1C2=CC=CC=C2N=C1C3=C(N(C4=NC5=CC=CC=C5N=C34)C6=CC=CC=C6)N,Active
+4594104,"3-benzoyl-5-(3-chlorophenyl)-1-phenyl-3a,6a-dihydropyrrolo[3,4-c]pyrazole-4,6-dione",C1=CC=C(C=C1)C(=O)C2=NN(C3C2C(=O)N(C3=O)C4=CC(=CC=C4)Cl)C5=CC=CC=C5,Active
+3774666,"3-benzoyl-5-(2-chlorophenyl)-1-phenyl-3a,6a-dihydropyrrolo[3,4-c]pyrazole-4,6-dione",C1=CC=C(C=C1)C(=O)C2=NN(C3C2C(=O)N(C3=O)C4=CC=CC=C4Cl)C5=CC=CC=C5,Active
+1215664,"(3-amino-6-phenylthieno[2,3-b]pyridin-2-yl)-(4-methoxyphenyl)methanone",COC1=CC=C(C=C1)C(=O)C2=C(C3=C(S2)N=C(C=C3)C4=CC=CC=C4)N,Active
+2920668,[2-oxo-4-(trifluoromethyl)chromen-7-yl] 2-[(4-methylphenyl)sulfonylamino]-2-phenylacetate,CC1=CC=C(C=C1)S(=O)(=O)NC(C2=CC=CC=C2)C(=O)OC3=CC4=C(C=C3)C(=CC(=O)O4)C(F)(F)F,Active
+5933890,(E)-3-(2-methyl-1H-indol-3-yl)-1-phenylprop-2-en-1-one,CC1=C(C2=CC=CC=C2N1)C=CC(=O)C3=CC=CC=C3,Active
+3768880,[2-oxo-4-(trifluoromethyl)chromen-7-yl] 3-phenyl-2-(phenylmethoxycarbonylamino)propanoate,C1=CC=C(C=C1)CC(C(=O)OC2=CC3=C(C=C2)C(=CC(=O)O3)C(F)(F)F)NC(=O)OCC4=CC=CC=C4,Active
+5549699,"8-amino-3-hexyl-1H-benzo[g]pteridine-2,4-dione",CCCCCCN1C(=O)C2=NC3=C(C=C(C=C3)N)N=C2NC1=O,Active
+5599895,"8-amino-3-hexyl-7-methyl-1H-benzo[g]pteridine-2,4-dione",CCCCCCN1C(=O)C2=NC3=C(C=C(C(=C3)C)N)N=C2NC1=O,Active
+930578,"1-[1-amino-5-(4-methylphenyl)-6,7,8,9-tetrahydrothieno[2,3-c]isoquinolin-2-yl]ethanone",CC1=CC=C(C=C1)C2=NC3=C(C4=C2CCCC4)C(=C(S3)C(=O)C)N,Active
+4271672,"3-amino-4-(4-fluorophenyl)-6-thiophen-2-ylthieno[2,3-b]pyridine-2-carbonitrile",C1=CSC(=C1)C2=NC3=C(C(=C2)C4=CC=C(C=C4)F)C(=C(S3)C#N)N,Active
+12005721,"N-[2-[(Z)-2-(3-chlorophenyl)-1-cyanoethenyl]-4-(4-methylphenyl)-1,3-thiazol-5-yl]acetamide",CC1=CC=C(C=C1)C2=C(SC(=N2)C(=CC3=CC(=CC=C3)Cl)C#N)NC(=O)C,Active
+65047,"(6'-acetyloxy-3-oxospiro[2-benzofuran-1,9'-xanthene]-3'-yl) acetate",CC(=O)OC1=CC2=C(C=C1)C3(C4=C(O2)C=C(C=C4)OC(=O)C)C5=CC=CC=C5C(=O)O3,Active
+6248815,"N-[2-[(E)-1-cyano-2-[4-(diethylamino)phenyl]ethenyl]-4-thiophen-2-yl-1,3-thiazol-5-yl]acetamide",CCN(CC)C1=CC=C(C=C1)C=C(C#N)C2=NC(=C(S2)NC(=O)C)C3=CC=CS3,Active
+4620544,"2-(6-morpholin-4-yl-1,3-dioxobenzo[de]isoquinolin-2-yl)ethyl 2,4-dichlorobenzoate",C1COCCN1C2=C3C=CC=C4C3=C(C=C2)C(=O)N(C4=O)CCOC(=O)C5=C(C=C(C=C5)Cl)Cl,Active
+4051302,"2-(6-morpholin-4-yl-1,3-dioxobenzo[de]isoquinolin-2-yl)ethyl 2-chlorobenzoate",C1COCCN1C2=C3C=CC=C4C3=C(C=C2)C(=O)N(C4=O)CCOC(=O)C5=CC=CC=C5Cl,Active
+6031948,"4-[(E)-2-(5-methoxy-6-methylsulfanyl-1,3-benzothiazol-2-yl)ethenyl]-N,N-dimethylaniline",CN(C)C1=CC=C(C=C1)C=CC2=NC3=CC(=C(C=C3S2)SC)OC,Active
+9624199,"2-chloro-3-[(E)-[(4,6-dimethylpyrimidin-2-yl)hydrazinylidene]methyl]-7-methylpyrido[1,2-a]pyrimidin-4-one",CC1=CN2C(=NC(=C(C2=O)C=NNC3=NC(=CC(=N3)C)C)Cl)C=C1,Active
+15944846,"2-[(1,2,3,4-tetrafluoroacridin-9-yl)amino]ethanol",C1=CC=C2C(=C1)C(=C3C(=C(C(=C(C3=N2)F)F)F)F)NCCO,Active
+839988,"6-amino-2-(1,3,5-trimethylpyrazol-4-yl)benzo[de]isoquinoline-1,3-dione",CC1=C(C(=NN1C)C)N2C(=O)C3=C4C(=C(C=C3)N)C=CC=C4C2=O,Active
+2109969,"(4Z)-4-[(3-methoxyphenyl)methylidene]-2-(3-methylphenyl)isoquinoline-1,3-dione",CC1=CC(=CC=C1)N2C(=O)C3=CC=CC=C3C(=CC4=CC(=CC=C4)OC)C2=O,Active
+11835237,"2-(2-methoxyphenyl)-3-phenyl-5-thiophen-2-yl-3,4-dihydropyrazole",COC1=CC=CC=C1N2C(CC(=N2)C3=CC=CS3)C4=CC=CC=C4,Active
+5379238,(E)-1-(4-bromophenyl)-3-[4-(diethylamino)phenyl]prop-2-en-1-one,CCN(CC)C1=CC=C(C=C1)C=CC(=O)C2=CC=C(C=C2)Br,Active
+5825928,"[2-(2-methylpropylamino)-2-oxoethyl] (3E)-3-(thiophen-2-ylmethylidene)-1,2-dihydrocyclopenta[b]quinoline-9-carboxylate",CC(C)CNC(=O)COC(=O)C1=C2CCC(=CC3=CC=CS3)C2=NC4=CC=CC=C41,Active
+6249312,(E)-3-(1H-indol-3-yl)-1-naphthalen-1-ylprop-2-en-1-one,C1=CC=C2C(=C1)C=CC=C2C(=O)C=CC3=CNC4=CC=CC=C43,Active
+6223700,"[1-(methylcarbamoylamino)-1-oxopropan-2-yl] (3E)-3-(thiophen-2-ylmethylidene)-1,2-dihydrocyclopenta[b]quinoline-9-carboxylate",CC(C(=O)NC(=O)NC)OC(=O)C1=C2CCC(=CC3=CC=CS3)C2=NC4=CC=CC=C41,Active
+5860596,"[2-[(2-methylcyclohexyl)amino]-2-oxoethyl] (3E)-3-(furan-2-ylmethylidene)-1,2-dihydrocyclopenta[b]quinoline-9-carboxylate",CC1CCCCC1NC(=O)COC(=O)C2=C3CCC(=CC4=CC=CO4)C3=NC5=CC=CC=C52,Active
+5978544,"[2-(butylamino)-2-oxoethyl] (3E)-3-(thiophen-2-ylmethylidene)-1,2-dihydrocyclopenta[b]quinoline-9-carboxylate",CCCCNC(=O)COC(=O)C1=C2CCC(=CC3=CC=CS3)C2=NC4=CC=CC=C41,Active
+6092126,"[2-(cyclopentylamino)-2-oxoethyl] (3E)-3-(furan-2-ylmethylidene)-1,2-dihydrocyclopenta[b]quinoline-9-carboxylate",C1CCC(C1)NC(=O)COC(=O)C2=C3CCC(=CC4=CC=CO4)C3=NC5=CC=CC=C52,Active
+2384174,(E)-2-cyano-N-(4-ethoxyphenyl)-3-(3-methyl-4-pyrrolidin-1-ylphenyl)prop-2-enamide,CCOC1=CC=C(C=C1)NC(=O)C(=CC2=CC(=C(C=C2)N3CCCC3)C)C#N,Active
+3658423,"1-[3-(1,3-benzodioxol-5-yl)-2,4-diphenyl-3H-1,2,4-triazol-5-yl]ethanone",CC(=O)C1=NN(C(N1C2=CC=CC=C2)C3=CC4=C(C=C3)OCO4)C5=CC=CC=C5,Active
+763676,(2Z)-5-amino-2-(furan-2-ylmethylidene)-3H-inden-1-one,C1C2=C(C=CC(=C2)N)C(=O)C1=CC3=CC=CO3,Active
+5952922,N-[(E)-1-(furan-2-yl)ethylideneamino]-4-nitroaniline,CC(=NNC1=CC=C(C=C1)[N+](=O)[O-])C2=CC=CO2,Active
+185146,"2-[3-(dimethylamino)propyl]-6-nitrobenzo[de]isoquinoline-1,3-dione",CN(C)CCCN1C(=O)C2=C3C(=C(C=C2)[N+](=O)[O-])C=CC=C3C1=O,Active
+803313,"4-tert-butyl-N-(1,4-dioxo-2,3-dihydrophthalazin-5-yl)benzamide",CC(C)(C)C1=CC=C(C=C1)C(=O)NC2=CC=CC3=C2C(=O)NNC3=O,Active
+2932011,"7-(5-bromofuran-2-yl)-5-(4-fluorophenyl)-4,7-dihydro-[1,2,4]triazolo[1,5-a]pyrimidine",C1=CC(=CC=C1C2=CC(N3C(=NC=N3)N2)C4=CC=C(O4)Br)F,Active
+16187234,"4-heptyl-2,3-dihydro-1H-cyclopenta[b]quinolin-9-imine;hydroiodide",CCCCCCCN1C2=C(CCC2)C(=N)C3=CC=CC=C31.I,Active
+305322,"6-nitro-2-(oxolan-2-ylmethyl)benzo[de]isoquinoline-1,3-dione",C1CC(OC1)CN2C(=O)C3=C4C(=C(C=C3)[N+](=O)[O-])C=CC=C4C2=O,Active
+5296050,"4-[(Z)-2-(9H-pyrido[3,4-b]indol-1-yl)ethenyl]benzonitrile",C1=CC=C2C(=C1)C3=C(N2)C(=NC=C3)C=CC4=CC=C(C=C4)C#N,Active
+9627448,N-[(E)-[4-(naphthalen-1-ylmethoxy)phenyl]methylideneamino]-5-nitropyridin-2-amine,C1=CC=C2C(=C1)C=CC=C2COC3=CC=C(C=C3)C=NNC4=NC=C(C=C4)[N+](=O)[O-],Active
+373692,"7-chloro-3-phenyl-[1,3]thiazolo[4,5-d]pyrimidine-2-thione",C1=CC=C(C=C1)N2C3=C(C(=NC=N3)Cl)SC2=S,Active
+6001289,"(2E,5E)-2,5-bis[(2,4-dimethoxyphenyl)methylidene]cyclopentan-1-one",COC1=CC(=C(C=C1)C=C2CCC(=CC3=C(C=C(C=C3)OC)OC)C2=O)OC,Active
+984326,"16-(cyclohexylamino)-14-methyl-14-azatetracyclo[7.7.1.02,7.013,17]heptadeca-1(16),2,4,6,9(17),10,12-heptaene-8,15-dione",CN1C2=CC=CC3=C2C(=C(C1=O)NC4CCCCC4)C5=CC=CC=C5C3=O,Active
+5349489,(E)-3-(4-morpholin-4-ylphenyl)-1-phenylprop-2-en-1-one,C1COCCN1C2=CC=C(C=C2)C=CC(=O)C3=CC=CC=C3,Active
+9633315,2-[[3-[(E)-[(5-nitropyridin-2-yl)hydrazinylidene]methyl]indol-1-yl]methyl]benzonitrile,C1=CC=C(C(=C1)CN2C=C(C3=CC=CC=C32)C=NNC4=NC=C(C=C4)[N+](=O)[O-])C#N,Active
+5446512,"(E)-2-cyano-N-(3,4-dimethylphenyl)-3-[1-[2-(furan-2-ylmethylamino)-2-oxoethyl]indol-3-yl]prop-2-enamide",CC1=C(C=C(C=C1)NC(=O)C(=CC2=CN(C3=CC=CC=C32)CC(=O)NCC4=CC=CO4)C#N)C,Active
+6903194,1-[(E)-anthracen-9-ylmethylideneamino]-3-(4-morpholin-4-ylsulfonylphenyl)thiourea,C1COCCN1S(=O)(=O)C2=CC=C(C=C2)NC(=S)NN=CC3=C4C=CC=CC4=CC5=CC=CC=C53,Active
+135433277,"2-[(E)-2-(3,5-dichloro-2-hydroxyphenyl)ethenyl]quinolin-8-ol",C1=CC2=C(C(=C1)O)N=C(C=C2)C=CC3=C(C(=CC(=C3)Cl)Cl)O,Active
+2937718,"2-(3-hydroxyphenyl)-6-piperidin-1-ylbenzo[de]isoquinoline-1,3-dione",C1CCN(CC1)C2=C3C=CC=C4C3=C(C=C2)C(=O)N(C4=O)C5=CC(=CC=C5)O,Active
+2974588,"1-benzyl-3-(4-nitrophenyl)-3a,6a-dihydropyrrolo[3,4-c]pyrazole-4,6-dione",C1=CC=C(C=C1)CN2C3C(C(=N2)C4=CC=C(C=C4)[N+](=O)[O-])C(=O)NC3=O,Active
+16189758,"4-octyl-2,3-dihydro-1H-cyclopenta[b]quinolin-9-imine;hydrobromide",CCCCCCCCN1C2=C(CCC2)C(=N)C3=CC=CC=C31.Br,Active
+1304074,"2-(2-hydroxyphenyl)-6-piperidin-1-ylbenzo[de]isoquinoline-1,3-dione",C1CCN(CC1)C2=C3C=CC=C4C3=C(C=C2)C(=O)N(C4=O)C5=CC=CC=C5O,Active
+5336533,(E)-3-(4-aminophenyl)-1-thiophen-2-ylprop-2-en-1-one,C1=CSC(=C1)C(=O)C=CC2=CC=C(C=C2)N,Active
+202512,"6-amino-2-phenylbenzo[de]isoquinoline-1,3-dione",C1=CC=C(C=C1)N2C(=O)C3=C4C(=C(C=C3)N)C=CC=C4C2=O,Active
+135455118,3-[(E)-2-(4-hydroxyphenyl)ethenyl]-1H-quinoxalin-2-one,C1=CC=C2C(=C1)NC(=O)C(=N2)C=CC3=CC=C(C=C3)O,Active
+16192614,"4-octyl-2,3,5,6,7,8-hexahydro-1H-cyclopenta[b]quinolin-9-imine;hydrobromide",CCCCCCCCN1C2=C(CCCC2)C(=N)C3=C1CCC3.Br,Active
+10864994,"(2Z)-3-ethyl-2-[(E)-3-(3-ethyl-5-phenyl-1,3-benzoxazol-3-ium-2-yl)prop-2-enylidene]-5-phenyl-1,3-benzoxazole;ethyl sulfate",CCN1C2=C(C=CC(=C2)C3=CC=CC=C3)OC1=CC=CC4=[N+](C5=C(O4)C=CC(=C5)C6=CC=CC=C6)CC.CCOS(=O)(=O)[O-],Active
+5730347,1-[5-[(E)-2-(1-methylbenzimidazol-2-yl)ethenyl]furan-2-yl]propan-1-one,CCC(=O)C1=CC=C(O1)C=CC2=NC3=CC=CC=C3N2C,Active
+16192765,"4-heptyl-2,3,5,6,7,8-hexahydro-1H-cyclopenta[b]quinolin-9-imine;hydrobromide",CCCCCCCN1C2=C(CCCC2)C(=N)C3=C1CCC3.Br,Active
+9591202,"4-N-benzyl-6-morpholin-4-yl-2-N-[(E)-[5-(4-nitrophenyl)furan-2-yl]methylideneamino]-1,3,5-triazine-2,4-diamine",C1COCCN1C2=NC(=NC(=N2)NN=CC3=CC=C(O3)C4=CC=C(C=C4)[N+](=O)[O-])NCC5=CC=CC=C5,Active
+5740603,4-[(Z)-2-cyano-2-(6-methoxy-1H-benzimidazol-2-yl)ethenyl]benzoic acid,COC1=CC2=C(C=C1)N=C(N2)C(=CC3=CC=C(C=C3)C(=O)O)C#N,Active
+305244,"6-nitro-2-(pyridin-3-ylmethyl)benzo[de]isoquinoline-1,3-dione",C1=CC2=C(C=CC3=C2C(=C1)C(=O)N(C3=O)CC4=CN=CC=C4)[N+](=O)[O-],Active
+355876,"1-chloro-3-methylpyrido[1,2-a]benzimidazole-4-carbonitrile",CC1=C(C2=NC3=CC=CC=C3N2C(=C1)Cl)C#N,Active
+16193043,N-[2-(4-ethylpiperazin-1-yl)-4-methylquinolin-6-yl]-4-phenylpiperazine-1-carbothioamide,CCN1CCN(CC1)C2=NC3=C(C=C(C=C3)NC(=S)N4CCN(CC4)C5=CC=CC=C5)C(=C2)C,Active
+5121711,"6-piperidin-1-yl-2-prop-2-enylbenzo[de]isoquinoline-1,3-dione",C=CCN1C(=O)C2=C3C(=C(C=C2)N4CCCCC4)C=CC=C3C1=O,Active
+2137463,"5-chloro-3-(3-fluorophenyl)triazolo[1,5-a]quinazoline",C1=CC=C2C(=C1)C(=NC3=C(N=NN23)C4=CC(=CC=C4)F)Cl,Active
+16193843,"(6Z)-5-imino-3-(2-methylpropylsulfanyl)-6-[(4-oxochromen-3-yl)methylidene]-[1,2,4]thiadiazolo[4,5-a]pyrimidin-7-one",CC(C)CSC1=NSC2=NC(=O)C(=CC3=COC4=CC=CC=C4C3=O)C(=N)N21,Active
+1507407,"1-chloro-7,8-difluoro-3-methylpyrido[1,2-a]benzimidazole-4-carbonitrile",CC1=C(C2=NC3=CC(=C(C=C3N2C(=C1)Cl)F)F)C#N,Active
+2136899,"3-(4-fluorophenyl)-5-[(3-fluorophenyl)methyl]-7,8-dimethoxypyrazolo[4,3-c]quinoline",COC1=C(C=C2C(=C1)C3=NN=C(C3=CN2CC4=CC(=CC=C4)F)C5=CC=C(C=C5)F)OC,Active
+2136890,"3-(4-fluorophenyl)-5-[(2-fluorophenyl)methyl]-7,8-dimethoxypyrazolo[4,3-c]quinoline",COC1=C(C=C2C(=C1)C3=NN=C(C3=CN2CC4=CC=CC=C4F)C5=CC=C(C=C5)F)OC,Active
+2136882,"5-[(2-fluorophenyl)methyl]-7,8-dimethoxy-3-phenylpyrazolo[4,3-c]quinoline",COC1=C(C=C2C(=C1)C3=NN=C(C3=CN2CC4=CC=CC=C4F)C5=CC=CC=C5)OC,Active
+3128197,"7-chloro-N-methyl-4-nitro-2,1,3-benzoxadiazol-5-amine",CNC1=C(C2=NON=C2C(=C1)Cl)[N+](=O)[O-],Active
+5765499,2-[5-[(E)-2-[2-oxo-6-(trifluoromethyl)-1H-pyrimidin-4-yl]ethenyl]furan-2-yl]benzoic acid,C1=CC=C(C(=C1)C2=CC=C(O2)C=CC3=NC(=O)NC(=C3)C(F)(F)F)C(=O)O,Active
+3129452,"2,5-bis(4-nitrophenyl)-3,4-dihydropyrazole-3-carbonitrile",C1C(N(N=C1C2=CC=C(C=C2)[N+](=O)[O-])C3=CC=C(C=C3)[N+](=O)[O-])C#N,Active
+1617287,"5-[(2Z)-2-(2,2-dimethyl-6-phenyl-1,3-dioxin-4-ylidene)ethylidene]-2-sulfanylidene-1,3-diazinane-4,6-dione",CC1(OC(=CC(=CC=C2C(=O)NC(=S)NC2=O)O1)C3=CC=CC=C3)C,Active
+14610,7-nitro-9H-fluoren-2-amine,C1C2=C(C=CC(=C2)N)C3=C1C=C(C=C3)[N+](=O)[O-],Active
+1361490,"2-(4-hydroxyphenyl)-6-piperidin-1-ylbenzo[de]isoquinoline-1,3-dione",C1CCN(CC1)C2=C3C=CC=C4C3=C(C=C2)C(=O)N(C4=O)C5=CC=C(C=C5)O,Active
+135439811,2-chloro-1-[5-[(E)-[(4-nitrophenyl)hydrazinylidene]methyl]-1H-pyrrol-3-yl]ethanone,C1=CC(=CC=C1NN=CC2=CC(=CN2)C(=O)CCl)[N+](=O)[O-],Active
+3590153,"2-(4-amino-1,3-dioxoisoindol-2-yl)-N-(2-methylcyclohexyl)acetamide",CC1CCCCC1NC(=O)CN2C(=O)C3=C(C2=O)C(=CC=C3)N,Active
+9647206,"N-[(E)-1-(1,3-benzodioxol-5-yl)ethylideneamino]-4-nitroaniline",CC(=NNC1=CC=C(C=C1)[N+](=O)[O-])C2=CC3=C(C=C2)OCO3,Active
+6385751,4-nitro-N-[(E)-1-phenylpropylideneamino]aniline,CCC(=NNC1=CC=C(C=C1)[N+](=O)[O-])C2=CC=CC=C2,Active
+9658313,N-[(E)-1-(1-benzofuran-2-yl)ethylideneamino]-4-nitroaniline,CC(=NNC1=CC=C(C=C1)[N+](=O)[O-])C2=CC3=CC=CC=C3O2,Active
+3505567,"N-(1-adamantyl)-2-(4-amino-1,3-dioxoisoindol-2-yl)acetamide",C1C2CC3CC1CC(C2)(C3)NC(=O)CN4C(=O)C5=C(C4=O)C(=CC=C5)N,Active
+2332535,S-quinolin-8-yl 4-fluorobenzenecarbothioate,C1=CC2=C(C(=C1)SC(=O)C3=CC=C(C=C3)F)N=CC=C2,Active
+2084247,"2-(4-amino-1,3-dioxoisoindol-2-yl)-N-butylacetamide",CCCCNC(=O)CN1C(=O)C2=C(C1=O)C(=CC=C2)N,Active
+16196319,"(2Z)-2-[[2,6-dimethyl-1-(oxolan-2-ylmethyl)pyridin-1-ium-4-yl]methylidene]-3-methyl-1,3-benzothiazole;tetrafluoroborate",[B-](F)(F)(F)F.CC1=CC(=CC(=[N+]1CC2CCCO2)C)C=C3N(C4=CC=CC=C4S3)C,Active
+2463883,"4-[(Z)-[2-(3-methylphenyl)-1,3-dioxoisoquinolin-4-ylidene]methyl]benzoic acid",CC1=CC(=CC=C1)N2C(=O)C3=CC=CC=C3C(=CC4=CC=C(C=C4)C(=O)O)C2=O,Active
+3934060,"8-[5-(2-bromo-4-nitrophenyl)furan-2-yl]-7-(2-methoxyethyl)-3-(2-methylpropyl)purine-2,6-dione",CC(C)CN1C2=C(C(=O)NC1=O)N(C(=N2)C3=CC=C(O3)C4=C(C=C(C=C4)[N+](=O)[O-])Br)CCOC,Active
+135440580,4-[(E)-C-methyl-N-(4-nitroanilino)carbonimidoyl]phenol,CC(=NNC1=CC=C(C=C1)[N+](=O)[O-])C2=CC=C(C=C2)O,Active
+6451074,"(6aR,9R,9aR)-9-acetyl-3-[(1E,3E,5S)-3,5-dimethylhepta-1,3-dienyl]-6a-methyl-9,9a-dihydrofuro[2,3-h]isochromene-6,8-dione",CCC(C)C=C(C)C=CC1=CC2=CC(=O)C3(C(C2=CO1)C(C(=O)O3)C(=O)C)C,Active
+160115,"5,6,8-trihydroxy-2-methyl-9-(5,6,8-trihydroxy-2-methyl-4-oxo-2,3-dihydrobenzo[g]chromen-9-yl)-2,3-dihydrobenzo[g]chromen-4-one",CC1CC(=O)C2=C(O1)C=C3C(=C2O)C(=CC(=C3C4=C(C=C(C5=C(C6=C(C=C54)OC(CC6=O)C)O)O)O)O)O,Active
