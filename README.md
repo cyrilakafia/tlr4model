@@ -18,8 +18,7 @@ For AID 861 Inactives, the csv files can be located in the google drive. Due to 
 
 Molecular Descriptors have been computed for active, alt_active and alt_inactive dataset.
 
-## to-do
+Using different ratios, SMOTE and undersampling techniques, models have been trained.
 
-  i.    Molecular Descriptors for Inactive Dataset
-  ii.   SMOTE
-  iii.  Undersampling
+## to-do
+1. Hyperparameter Tuning
