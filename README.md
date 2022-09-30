@@ -22,7 +22,7 @@ An iterative process then was employed by using different ratios of active and i
 The resampling techniques employed were:
   i. Synthetic Minority Oversampling Technique
   ii. Random Undersampling
-  iii. Ramdom Selection
+  iii. Random Selection
   
 The five iterations are explained below
 Iteration 1: No resampling techniques were used. Model was trained on highly imbalance data.<br>
