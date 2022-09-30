@@ -5,9 +5,9 @@ Building machine learning models for predicting inhibitors of the toll-like rece
 Datasets were obtained from pubchem assays AID 861 and AID 1237. 
 AID 1237 is a confirmatory assay that further divides the actives from AID 861 into actives and inactives.
 
-We are yet to decide which one we would use
-
 All four csv files i.e. Active (358) and Inactive (195,623) for AID 861 and Active (220 Compounds) and Inactives (129 Compounds) for AID 1237 have been cleaned and their canonical smiles have been extracted.
+
+All concentration was place on AID 861 
 
 Simplified datasets in .csv formated have been generated for each file described above.
 The consist of 
@@ -16,9 +16,25 @@ The consist of
 
 For AID 861 Inactives, the csv files can be located in the google drive. Due to their large size, they can't be uploaded to github 
 
-Molecular Descriptors have been computed for active, alt_active and alt_inactive dataset.
+Using Mold2, Molecular Descriptors (777) have been computed for both the active and inactive datasets and the resulting csv files were combined to form a final.csv for model training, testing and applicability domain analysis.
 
-Using different ratios, SMOTE and undersampling techniques, models have been trained.
+An iterative process then was employed by using different ratios of active and inactive to build models by leveraging resampling techniques.
+The resampling techniques employed were:
+  i. Synthetic Minority Oversampling Technique
+  ii. Random Undersampling
+  iii. Ramdom Selection
+  
+The five iterations are explained below
+Iteration 1: No resampling techniques were used. Model was trained on highly imbalance data.
+Iteration 2: 1:1 ratio was used by undersampling inactives to match actives
+Iteration 3: 1:3 ratio was used by undersampling inactives to about 3 times the number of active samples
+Iteration 4: 1:1 ratio was used by undersampling inactives to half of it original number of samples and then oversampling the actives to match this number
+Iteration 5: Randomly selecting 5,000 inactives from the inactive dataset and combining them with all samples on the active dataset. 
 
-## to-do
-1. Hyperparameter Tuning
+The models were evaluated using accuracy, precision, f1, recall, mcc and auroc
+
+Applicability domain analysis was done on the train and test dataset from the main final.csv dataset
+
+The top 5 models were selected and used to screen a library of peptidomimetics obtained from ChemDiv.
+A total of 69 compounds were classified as active
+
