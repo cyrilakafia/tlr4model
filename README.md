@@ -25,11 +25,11 @@ The resampling techniques employed were:
   iii. Ramdom Selection
   
 The five iterations are explained below
-Iteration 1: No resampling techniques were used. Model was trained on highly imbalance data.
-Iteration 2: 1:1 ratio was used by undersampling inactives to match actives
-Iteration 3: 1:3 ratio was used by undersampling inactives to about 3 times the number of active samples
-Iteration 4: 1:1 ratio was used by undersampling inactives to half of it original number of samples and then oversampling the actives to match this number
-Iteration 5: Randomly selecting 5,000 inactives from the inactive dataset and combining them with all samples on the active dataset. 
+Iteration 1: No resampling techniques were used. Model was trained on highly imbalance data.<br>
+Iteration 2: 1:1 ratio was used by undersampling inactives to match actives <br>
+Iteration 3: 1:3 ratio was used by undersampling inactives to about 3 times the number of active samples <br>
+Iteration 4: 1:1 ratio was used by undersampling inactives to half of it original number of samples and then oversampling the actives to match this number <br>
+Iteration 5: Randomly selecting 5,000 inactives from the inactive dataset and combining them with all samples on the active dataset. <br>
 
 The models were evaluated using accuracy, precision, f1, recall, mcc and auroc
 
