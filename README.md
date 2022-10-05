@@ -36,5 +36,7 @@ The models were evaluated using accuracy, precision, f1, recall, mcc and auroc
 Applicability domain analysis was done on the train and test dataset from the main final.csv dataset
 
 The top 5 models were selected and used to screen a library of peptidomimetics obtained from ChemDiv.
-A total of 69 compounds were classified as active
+A total of 45 compounds were classified as active
+The confidence values/probabilities of these compounds are also extracted for further decision making
 
+Applicability Domain Analysis will be computed for these com
